@@ -1,1 +1,1 @@
-Repository created and cloned in the system using sourcetree.
+Repository is created and cloned in the system using sourcetree.
